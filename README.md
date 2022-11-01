@@ -14,4 +14,6 @@ Hi! I'm <i><b>Red</b></i>
 - 💬 Ask me about my Projects
 - 📫 How to reach me: <a href="https://discord.gg/RJ6rfpFzVn">Discord</a> or at <a href="https://twitter.com/RedstoneHair">Twitter</a>
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm good at a lot of things
+- ⚡ Fun fact: I'm good at a lot of things. Also I like snake
+
+<a href="https://justredttg.github.io/snake">Play Snake!</a>
