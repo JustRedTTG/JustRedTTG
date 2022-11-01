@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**JustRedTTG/JustRedTTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+<img src="https://avatars.githubusercontent.com/u/46073266?v=4" width="40px" height="40px"/>
+Hi! I'm <i><b>Red</b></i>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Here's my profile description</h4>
+
+- 🔭 I’m currently working on hexicapi and pygameextra
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with anything
+- 💬 Ask me about my Projects
+- 📫 How to reach me: <a href="https://discord.gg/RJ6rfpFzVn">Discord</a> or at <a href="https://twitter.com/RedstoneHair">Twitter</a>
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm good at a lot of things
