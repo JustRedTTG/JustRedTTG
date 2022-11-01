@@ -1,7 +1,7 @@
 
 
 <div>
-<img src="https://avatars.githubusercontent.com/u/46073266?v=4" width="40px" height="40px"/>
+<img src="https://avatars.githubusercontent.com/u/46073266?v=4" width="50px" height="50px"/>
 Hi! I'm <i><b>Red</b></i>
 </div>
 
