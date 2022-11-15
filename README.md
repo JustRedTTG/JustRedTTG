@@ -16,4 +16,4 @@ Hi! I'm <i><b>Red</b></i>
 - 😄 Pronouns: Meow
 - ⚡ Fun fact: I'm good at a lot of things. Also I like snake! 
 
-<a href="https://justredttg.github.io/snake" target="_blank">Play Snake!</a>
+<a href="https://justredttg.github.io/easy-snake/" target="_blank">Play Snake!</a>
