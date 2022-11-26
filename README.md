@@ -17,3 +17,5 @@ Hi! I'm <i><b>Red</b></i>
 - ⚡ Fun fact: I'm good at a lot of things. Also I like snake! 
 
 <a href="https://justredttg.github.io/easy-snake/" target="_blank">Play Snake!</a>
+
+<img src="https://raw.githubusercontent.com/JustRedTTG/JustRedTTG/maser/image.png" width="100%" height="auto"/>
