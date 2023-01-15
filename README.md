@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<img src="https://cloud.redttg.tk/githubreadme" alt="Hi, I'm Red! Sorry if the readme is down!!!"/>
-=======
-
-
 <div>
 <img src="https://avatars.githubusercontent.com/u/46073266?v=4" width="50px" height="50px"/>
 Hi! I'm <i><b>Red</b></i>
@@ -22,4 +17,3 @@ Hi! I'm <i><b>Red</b></i>
 <a href="https://justredttg.github.io/easy-snake/" target="_blank">Play Snake!</a>
 
 <img src="https://raw.githubusercontent.com/JustRedTTG/JustRedTTG/maser/image.png" width="100%" height="auto"/>
->>>>>>> parent of de2a307 (Add stats)
