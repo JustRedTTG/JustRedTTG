@@ -5,11 +5,11 @@ Hi! I'm <i><b>Red</b></i>
 
 <h4>Here's my profile description</h4>
 
-- 🔭 I’m currently working on nothing, taking a break :3
-- 🌱 I finished my python fundamentals course with flying colors
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with anything
-- 💬 Ask me about my amazing projects
+- 🔭 I’m currently working on mathy nerdy stuff 😜
+- 🌱 Currently in softuni python advanced, surpasing everyone 😎
+- 👯 I’m looking to collaborate on anything 🙌
+- 🤔 I’m looking for help with anything (mostly <a href="https://github.com/JustRedTTG/PGE">PGE</a>)
+- 💬 Ask me about my amazing projects 💕
 - 📫 How to reach me: <a href="https://discord.gg/RJ6rfpFzVn">Discord</a> or at <a href="https://twitter.com/RedstoneHair">Twitter</a>
 - 😄 Pronouns: Meow
 - ⚡ Fun fact: I'm good at a lot of things. Also I like snake! 
