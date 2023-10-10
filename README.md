@@ -6,7 +6,7 @@ Hi! I'm <i><b>Red</b></i>
 <h4>Here's my profile description</h4>
 
 - 🔭 I’m currently working on mathy nerdy stuff 😜
-- 🔨 Good at backend and frontend developer, graohics and more. Good at multitasking and switching between tasks
+- 🔨 Good at backend and frontend development, graphics and more. Good at multitasking and switching between tasks
 - 🌱 Currently in school, surpasing everyone and counting my bits 😎
 - 👯 I’m looking to collaborate on anything 🙌
 - 🤔 I’m looking for help with anything (mostly <a href="https://github.com/JustRedTTG/pythonide">Pythonide</a>)
