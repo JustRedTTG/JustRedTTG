@@ -11,7 +11,7 @@ Hi! I'm <i><b>Red</b></i>
 - 👯 I’m looking to collaborate on anything 🙌
 - 🤔 I’m looking for help with anything (mostly <a href="https://github.com/JustRedTTG/pythonide">Pythonide</a>)
 - 💬 Ask me about my projects and about collaborating 💖
-- 📫 How to reach me: <a href="https://twitter.com/RedstoneHair">Twitter</a>
+- 📫 How to reach me: <a href="https://twitter.com/RedstoneHair">Twitter</a> or <a href="https://reddit.com/u/RedTTG/s/xHf3ByK4XJ">Reddit</a>
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love mazes! 
 
