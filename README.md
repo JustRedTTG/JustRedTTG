@@ -11,7 +11,7 @@ Hi! I'm <i><b>Red</b></i>
 - 🤔 I’m looking for help with anything (mostly <a href="https://github.com/JustRedTTG/pythonide">Pythonide</a>)
 - 💬 Ask me about my projects and about collaborating 💖
 - 📫 How to reach me: <a href="https://twitter.com/RedstoneHair">Twitter</a>
-- 😄 Pronouns: Meow
+- 😄 Pronouns: They/Them
 - ⚡ Fun fact: I'm good at a lot of things. Also I like snake! 
 
 <a href="https://justredttg.github.io/easy-snake/" target="_blank">Play Snake!</a>
