@@ -12,7 +12,7 @@ A small passionate self-taught developer
 - 🔨 Good at backend and database development, graphics and more. Good at multitasking and switching between tasks
 - 🌱 Currently in school, surpasing everyone and counting my bits 😎
 - 👯 I’m looking to collaborate on anything 🙌
-- 🤔 I’m looking for help with anything (mostly [My peer to peer game](https://github.com/JustRedTTG/peer-to-peer-game))
+- 🤔 I’m looking for help with anything (mostly [Docs](https://github.com/JustRedTTG/PGE))
 - 💬 Ask me about my projects and about collaborating 💖
 - 📫 How to reach me: [Discord](https://discord.com/invite/XUfvvfdJ) (I'm looking for work, so if you want me on your team, this is your chance!)
 - 😄 Pronouns: They/Them
