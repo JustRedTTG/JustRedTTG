@@ -14,7 +14,7 @@ A small passionate self-taught developer
 - 👯 I’m looking to collaborate on anything 🙌
 - 🤔 I’m looking for help with anything (mostly [Docs](https://github.com/JustRedTTG/PGE))
 - 💬 Ask me about my projects and about collaborating 💖
-- 📫 How to reach me: [Discord](https://discord.com/invite/XUfvvfdJ)
+- 📫 How to reach me: [Discord](https://discord.gg/cDbCBN5EZN)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love mazes! 
 - 💸 Support me: [PayPal](https://www.paypal.com/paypalme/redttg) ❤️
