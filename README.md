@@ -25,4 +25,4 @@ A small passionate self-taught developer
 
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/JustRedTTG/JustRedTTG/maser/image.png" width="100%" height="auto"/>
+<img src="https://raw.githubusercontent.com/JustRedTTG/JustRedTTG/master/image.png" width="100%" height="auto"/>
