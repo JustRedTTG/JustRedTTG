@@ -10,14 +10,15 @@ A small passionate self-taught developer
 
 - 🔭 I’m currently working on mathy nerdy stuff 😜
 - 🔨 Good at backend and database development, graphics and more. Good at multitasking and switching between tasks
-- 🌱 Currently free, counting my bits with cool projects 😎
+- 🌱 Currently busy, counting my bits with cool projects 😎
 - 👯 I’m looking to collaborate on anything 🙌
 - 🤔 I’m looking for help with anything (mostly [Docs](https://github.com/JustRedTTG/PGE))
 - 💬 Ask me about my projects and about collaborating 💖
+    After all, collaboration is key!
 - 📫 How to reach me: [Discord](https://discord.gg/cDbCBN5EZN)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love mazes! 
-- 💸 Support me: [PayPal](https://www.paypal.com/paypalme/redttg) ❤️
+- 💸 Support me: [PayPal](https://www.paypal.com/paypalme/redttg) ❤️ I need it 😓
 
 &nbsp;
 
